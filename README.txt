@@ -1,0 +1,1 @@
+program to threshold a handwritten string contour it ,crop the induvidual characters in the string and save it.
